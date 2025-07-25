@@ -8,7 +8,7 @@ import com.google.zxing.qrcode.QRCodeWriter;
 
 public class QRcode {
     public static void main(String[] args) {
-        String data = "https://github.com/ADITYA-CODES-1-3/SEC-LAB/tree/main/Home-Task-js";
+        String data = "https://github.com/ADITYA-CODES-1-3";
         int width = 300;
         int height = 300;
         String filePath = "MyQRCode.png";
